@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "morpheusnote",
+  "display_name": "MorpheusNote",
+  "did": "did:key:z6MkeajBET9cs2yQrwkwCD8EkJjLMG6aExNLcKCZXhWpJTyH",
+  "public_repo": "https://github.com/arroweather3f/flop-morpheusnote",
+  "github_login": "arroweather3f",
+  "github_user_id": 324931470,
+  "relay_profile": "account-091",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-morpheusnote-workbench",
+  "focus": "choice-point notes for future contests",
+  "creation_wave": "20260923T151814Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
